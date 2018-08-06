@@ -4,7 +4,7 @@
     <div class="jumbotron">
         <h1>Hello </h1>
         <p class="lead">
-            你现在所看到的是 <a href="https://laravel-china.org/courses/laravel-essential-training-5.1">唐昕阳</a> 的主页。
+            你现在所看到的是 <a href="https://laravel-china.org/courses/laravel-essential-training-5.1">唐昕阳，单玉姿</a> 的项目主页。
         </p>
         <p>
             一切，将从这里开始。
